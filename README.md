@@ -9,7 +9,7 @@ This a simple Counter App that counts basically. It increases and decreases acco
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://relaxed-babka-3410db.netlify.app/]
 
 ### Built with
 
